@@ -48,7 +48,7 @@ function getPlanetName(id) {
     return 'Error'
 }
 console.log(getPlanetName(3));
-//===========================================
+//========================================
 function getPlanetName(id) {
     if(id < 1 || id > 8) return 'Error';
     return {
