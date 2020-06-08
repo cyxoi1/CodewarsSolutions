@@ -1,4 +1,4 @@
-//https://www.codewars.com/kata/58e0bd6a79716b7fcf0013b1/javascript
+////https://www.codewars.com/kata/58e0bd6a79716b7fcf0013b1/javascript
 //Calculate Two People's Individual Ages
 
 function getAges(sum,difference){
