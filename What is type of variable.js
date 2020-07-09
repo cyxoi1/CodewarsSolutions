@@ -4,3 +4,8 @@ function type(value) {
     let res = {}.toString.call(value);
     return res.slice(1, -1).split(" ")[1].toLowerCase();
 }
+
+function type(value) {
+    let res = {}.toString.call(value);
+    return res.slice(1, -1).split(" ")[1].toLowerCase();
+}//same
